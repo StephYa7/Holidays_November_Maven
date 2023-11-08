@@ -1,9 +1,9 @@
-package FirstPackage;
+package FirstPackage.Reflect;
 
 import lombok.Data;
 
 @Data
-public class FirstClass {
+public class ClassNeedForReflectTest {
     private double x;
     private double y;
 

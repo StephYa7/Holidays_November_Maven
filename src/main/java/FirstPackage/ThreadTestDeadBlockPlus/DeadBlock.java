@@ -1,4 +1,4 @@
-package FirstPackage;
+package FirstPackage.ThreadTestDeadBlockPlus;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;
